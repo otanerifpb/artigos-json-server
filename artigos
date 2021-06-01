@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "titulo": "Processamento do Discurso em Textos Dissertativos-Argumentativos: Uma Abordagem Baseada em Mineração de Argumentos e Aprendizado Supervisionado de Máquina",
+    "autor": ["Jonathan Nau", "Rudimar Luís Scaranto Dazzi", "Aluizio Haendchen Filho", "Anita Fernandes"],
+    "ano": "2020",
+    "evento": "Anais do XLVII Seminário Integrado de Software e Hardware",
+    "resumo": "A identificação da estrutura da argumentação é útil para analisar o discurso e o raciocínio lógico do aluno. O processo de entendimento do discurso abrange a compreensão da morfologia, da sintaxe e da semântica. Neste trabalho, o processamento do discurso segue uma metodologia composta das seguintes fases: (i) criação de um corpus para treinamento e validação da aprendizagem; (ii) implementação da abordagem para mineração de argumentos; e (iii) aplicação de técnicas de aprendizagem de máquina. Os resultados alcançados ficaram entre a média encontrada na literatura para trabalhos realizados na língua inglesa. O destaque foi a identificação da proposta de intervenção, com um valor-F de 0,744.",
+    "keywords": ["Estrutura de Argumentação", "Processamento do Discurso", "Corpus", "Aprendizado de Máquina", "Aprendizado supervisionado"],
+    "url": "https://sol.sbc.org.br/index.php/semish/article/view/11316/11179"
+  },
+  {
+    "id": 2,
+    "titulo": "Um Estudo Exploratório dos Fatores de Adoção dos Ecossistemas de Software em Nuvem",
+    "autor": ["Emanuel Rodrigues", "Antonilson Alcantara", "Filipe Coelho", "Cleidson Souza"],
+    "ano": "2020",
+    "evento": "Anais do XLVII Seminário Integrado de Software e Hardware",
+    "resumo": "Nos últimos anos, um número crescente de empresas de software tem adotado estratégias para atrair desenvolvedores externos para suas plataformas. Essas empresas tornam suas plataformas mais flexíveis e atraentes, de modo que tal flexibilização proporciona o surgimento dos chamados ecossistemas de software. Devido ao crescente mercado para a cloud, as plataformas tornaram-se particularmente interessantes para estas empresas. Este artigo tem o objetivo de entender os critérios utilizados pelos desenvolvedores de aplicações para cloud a adotar uma determinada plataforma. Isto é feito através da análise de diferentes que influenciam os desenvolvedores a escolher uma determinada plataforma para cloud através de um estudo qualitativo realizado baseado em 16 entrevistas semiestruturadas com desenvolvedores em cloud. A análise dos dados revelou o importante e complexo papel dos fatores técnicos, sociais, individuais e de negócios para adoção e rejeição de uma determinada plataforma para cloud pelos desenvolvedores de software.",
+    "keywords": ["Computação em nuvem, análise de dados, desenvolvimento de software"],
+    "url": "https://sol.sbc.org.br/index.php/semish/article/view/11317/11180"
+  },
+  {
+    "id": 3,
+    "titulo": "Aprendizagem de preferências através do método TOPSIS: uma aplicação para ratings de liberdade econômica ",
+    "autor": ["Diogo Lima Silva", "Julio Cezar Silva", "Adiel de Almeida Filho"],
+    "ano": "2020",
+    "evento": "Anais do XLVII Seminário Integrado de Software e Hardware",
+    "resumo": "Esse artigo apresenta a aplicação de um método multicritério de classificação, que utiliza aprendizagem de preferências, para alocar um conjunto de 180 países em 5 classes de liberdade econômica. As classes são pré-definidas e ordenadas, o que caracteriza o problema como de “sorting”. Para a aplicação, escolhas de alternativas de referência foram simuladas. Em seguida, os resultados foram comparados à classificação realizada por uma agência especializada. O método obteve resultados consistentes, com um percentual de semelhança superior a 85%.",
+    "keywords": ["Aprendizagem de máquina, algoritmo de classificação"],
+    "url": "https://sol.sbc.org.br/index.php/semish/article/view/11318/11181"
+  },
+  {
+    "id": 4,
+    "titulo": "Monitorando Dados e Gerenciando Alertas em um Sistema para Controle de Aparelhos de Ar Condicionado",
+    "autor": ["Alan Fernandes", "Felipe Rocha", "Bruna Soares", "Bruno Matias", "Oswaldo de Oliveira", "Sâmela Ferreira", "Thais Batista", "Everton Cavalcante"],
+    "ano": "2020",
+    "evento": "Anais do XLVII Seminário Integrado de Software e Hardware",
+    "resumo": "Sistemas de Internet das Coisas (IoT) são tipicamente compostos por vários dispositivos que podem apresentar falhas de hardware, falta de bateria, indisponibilidade de conexão à rede, etc. Além disso, os dados coletados por esses dispositivos podem se tornar imprecisos ou sofrer anomalias, como indicativos de potenciais falhas ou má calibração de sensores. Para evitar indisponibilidade ou comportamento indesejável para o sistema, é essencial monitorar o estado dos dispositivos, detectar anomalias e emitir alertas que permitam rápidas correções. Este artigo apresenta um módulo de alertas para um sistema real que realiza o controle automatizado de aparelhos de ar condicionado com vistas a contribuir com a redução do consumo de energia elétrica em uma universidade. A arquitetura desse módulo tem como base o modelo de referência MAPE-K para identificar anomalias através das etapas de monitoramento dos dados, análise, planejamento e execução, todas fazendo uso de uma base de conhecimento constituída de regras configuráveis. Experimentos computacionais realizados com o intuito de avaliar a eficácia do módulo de alertas desenvolvido apontaram uma elevada precisão de 91,96% na detecção das anomalias.",
+    "keywords": ["Internet das coisas", "IoT", "automatização"],
+    "url": "https://sol.sbc.org.br/index.php/semish/article/view/11324/11187"
+  },
+  {
+    "id": 5,
+    "titulo": "Sistema de Informações de Milícias: Proposta de um Arcabouço Analítico para Análise de Textos em Dados de Denúncia",
+    "autor": ["Walkir Brito","Claudia Motta","Paulo Roberto Filho","Zeca Borges"],
+    "ano": "2020",
+    "evento": "Anais do XLVII Seminário Integrado de Software e Hardware",
+    "resumo": "Este artigo apresenta um arcabouço analítico para análise de textos em denúncias na base de dados do Disque Denúncia, fornecendo um sistema de informação denominado SIM Sistema de Informações de Milícias. Por meio deste, buscamos informações e fizemos descobertas sobre personas e entidades envolvidas com as Milícias no Estado do Rio de Janeiro por meio do estudo de caso aplicado no período de 2012 a 2019 em denúncias.",
+    "keywords": ["Sistemas de informações","análise de texto","análise de discurso"],
+    "url": "https://sol.sbc.org.br/index.php/semish/article/view/11327/11190"
+  },
+  {
+    "id": 6,
+    "titulo": "Reconhecendo gêneros musicais brasileiros com técnicas de aprendizagem de máquina supervisionada",
+    "autor": ["Julia Luiza da Conceição","Rosiane de Freitas","Bruno Gadelha","João Gustavo Kienen","Sérgio Anders","Brendo Cavalcante"],
+    "ano": "2020",
+    "evento": "Anais do XLVII Seminário Integrado de Software e Hardware",
+    "resumo": "Neste trabalho, é apresentado um estudo sobre o reconhecimento automático dos principais gêneros musicais brasileiros: Axé, Forró, MPB, Rock, Samba e Sertanejo. Para tanto, foram realizados experimentos de classificação automática utilizando a ferramenta Weka e algoritmos clássicos de aprendizagem supervisionada. Foi também realizada uma análise das principais bases de dados disponíveis: GTZAN, FMA, AudioSet, RWC, ISMIR, Magnature e LMD. Como resultado, percebeu-se a escassez de diversidade cultural nestas bases, em sua maioria concentrando estilos globalmente populares como Pop e Rock, reforçando a necessidade de incluir gêneros mais diversos e culturalmente identitários, como os brasileiros.",
+    "keywords": ["Aprendizagem de máquina","aprendizagem supervisionada","aprendizado supervisionado"],
+    "url": "https://sol.sbc.org.br/index.php/semish/article/view/11328/11191"
+  },
+  {
+    "id": 7,
+    "titulo": "Uso de Business Intelligence na Gestão de Recursos Hídricos: o caso da Fiscalização do Uso da Água ",
+    "autor": ["Damião Almeida","André Alves","Cláudio Baptista","Hugo Figueirêdo","Pedro Freire","Diego Silva"],
+    "ano": "2019",
+    "evento": "Anais do X Workshop de Computação Aplicada a Gestão do Meio Ambiente e Recursos Naturais",
+    "resumo": "Sistemas de apoio à decisão, quando concebidos e implantados de forma correta, acarretam em um impacto positivo no processo de apoio à decisão, em particular na gestão de recursos hídricos. A tecnologia de Business Intelligence-BI permite a adoção de um processo gerencial no qual, dados dos sistemas operacionais são extraídos, transformados e carregados no Datawarehouse, criam-se cubos de dados para realização das análises e frontends para realização da análise em forma de gráficos, mapas, tabelas e painéis. Este artigo utiliza-se desta importante tecnologia de BI, para implantar um processo decisório para a fiscalização do uso da água. O sistema de apoio decisão que implementa tal processo é inovador e habilita uma gestão mais eficaz e facilitada dos recursos hídricos.",
+    "keywords": ["Business Intelligence","BI","apoio à decisão","data warehouse"],
+    "url": "https://sol.sbc.org.br/index.php/wcama/article/view/6415/6311"
+  },
+  {
+    "id": 8,
+    "titulo": "Previsão de Cheias Sazonais para o Rio Negro Usando Redes Neurais Artificiais e Árvores de Decisão com Aprendizado Baseado em Comitê",
+    "autor": ["Paula Maraes","Marly Costa","Cicero Costa Filho"],
+    "ano": "2019",
+    "evento": "Anais do X Workshop de Computação Aplicada a Gestão do Meio Ambiente e Recursos Naturais",
+    "resumo": "A ocorrência das cheias sazonais dos rios afeta, principalmente, a população ribeirinha. Neste trabalho foram avaliados métodos capazes de prever o pico da cheia de rios, utilizando dois tipos de preditores: Redes Neurais Artificiais (RNA) e Árvores de Decisão. Para o treinamento dos preditores, as variáveis foram selecionadas através da técnica de seleção escalar de características modificada a partir de um conjunto de dados das cheias do Rio Negro relativo ao período de 1951-2017. Para melhorar a generalização das Redes Neurais foram utilizadas as técnicas de regularização L 2 e parada antecipada, associadas a técnica bootstrap. Para melhorar a performance das árvores de decisão, métodos de aprendizado baseado em comitê (boosting e bagging), foram empregados. Esse artigo propõe ainda a classificação das cheias em faixas de valores. A eficiência dos preditores foi avaliada através do coeficiente de correlação de Pearson e da acurácia da classificação das cheias. As predições foram obtidas com 4,3,2 meses e 1 mês de antecedência em relação a ocorrência do pico da cheia. A melhor acurácia obtida na classificação em faixas foi de 85,07% com um mês de antecedência com relação ao pico da cheia, para o preditor RNA (parada antecipada e bootstrap).",
+    "keywords": ["Redes neurais", "árvores de decisão","aprendizagem de máquina","aprendizagem baseada em comitê"],
+    "url": "https://sol.sbc.org.br/index.php/wcama/article/view/6419/6315"
+  },
+  {
+    "id": 9,
+    "titulo": "Uma Análise baseada em Clusterização para Monitoramento Integrado da Atividade da Pesca Artesanal na Bacia Araguaia-Tocantins",
+    "autor": ["Renato Silva","Rogério Silva","Hugo Kuribayashi","Cristiane Cunha","Keidi Sousa"],
+    "ano": "2019",
+    "evento": "Anais do X Workshop de Computação Aplicada a Gestão do Meio Ambiente e Recursos Naturais",
+    "resumo": "Este trabalho apresenta um modelo de Monitoramento Adaptativo da Pesca que foi avaliado pelo método de clusterização de dados de pesca coletados em 2016-2017 na bacia Araguaia-Tocantins. Os dados foram obtidos do Sistema Integrado de Estatı́stica Pesqueira (SIEPE), que gerou variáveis categóricas e numéricas. A análise revela que as variáveis numéricas mais expressivas no estudo foram o rendimento da pesca e potência do motor da embarcação, enquanto que as variáveis categóricas mais expressivas foram, nome popular espécie e ambiente de pesca. Estas variáveis devem ser levadas em consideração em programas de monitoramento da pesca na bacia Araguaia-Tocantins, bem como o uso do SIEPE para apoiar a gestão pesqueira em diferentes escalas.",
+    "keywords": ["Sistema de monitoramento","clusterização","análise de cluster"],
+    "url": "https://sol.sbc.org.br/index.php/wcama/article/view/6424/6320"
+  },
+  {
+    "id": 10,
+    "titulo": "Explorando o nı́vel de atividade do usuário para melhorar a precisão dos sistemas de recomendação de pontos de interesse",
+    "autor": ["Luiz Felipe Chaves","Nícollas Silva","Leonardo Rocha"],
+    "ano": "2020",
+    "evento": "Anais do XXXIX Concurso de Trabalhos de Iniciação Científica",
+    "resumo": "Sistemas de Recomendação (SsR) são aplicados em diversos cenários, tais como comércio eletrônico e, atualmente, em Redes Sociais Baseadas em Localização para recomendar pontos de interesse (POIs). Para cenário de POIs é necessário considerar a influência geográfica deles. As propostas atuais não alcançam resultados satisfatórios. Neste trabalho, abrimos uma nova perspectiva de pesquisa, propondo uma abordagem de pós-processamento que pode ser usada com qualquer SR. Medimos o nível de atividade dos usuários em diferentes subáreas de uma cidade e o usamos para reordenar os POIs recuperados. Avaliamos nossa proposta considerando seis SsR e três conjuntos de dados do Yelp, obtendo ganhos de até 15% de precisão.",
+    "keywords": ["Sistema de recomendação","redes sociais baseadas em localização","redes sociais","pontos de interesse","POI"],
+    "url": "https://sol.sbc.org.br/journals/index.php/reic/article/view/1747/1596"
+  },
+  {
+    "id": 11,
+    "titulo": "Uma Metodologia para Agrupamento e Extração de Informações de URLs de Phishing",
+    "autor": ["Welton Augusto Rodrigues Santos","Osvaldo Fonseca","Elverton Fazzion"],
+    "ano": "2020",
+    "evento": "Anais do XXXIX Concurso de Trabalhos de Iniciação Científica",
+    "resumo": "Apesar de avanços em mecanismos de prevenção e mitigação, o phishing continua uma ameaça. Uma das razões disso é que o agente responsável pelo envio dessas mensagens, o phisher, aprimora suas técnicas continuamente. Neste trabalho estudamos e caracterizamos um destes aprimoramentos: o uso pelos phishers de cadeias de redirecionamentos para ludibriar mecanismos de identificação e evitar bloqueio da infraestrutura de hospedagem do conteúdo malicioso. Propomos um método para agrupamento de mensagens e URLs em campanhas de phishing, e desenvolvemos um arcabouço para identificação da infraestrutura de hospedagem. Nossos resultados mostram que a infraestrutura de hospedagem das campanhas identificadas se concentra em provedores de computação em nuvem, mas que algumas campanhas são hospedadas por dispositivos em provedores de rede, possivelmente em dispositivos infectados. Isso indica diferentes abordagens de phishers, sugerindo esforço sem diferentes frentes de combate.",
+    "keywords": ["data mining","mineração de dados","phishing"],
+    "url": "https://sol.sbc.org.br/journals/index.php/reic/article/view/1748/1597"
+  }
+]
